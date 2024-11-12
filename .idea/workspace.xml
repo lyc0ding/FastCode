@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9abf93b5-132f-45ef-b387-1bb47525aed7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/FastCode-Api/FastCode1.0/src/main/java/org/lycoding/fastcode/bean/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastCode-Api/FastCode1.0/src/main/java/org/lycoding/fastcode/bean/FieldInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastCode-Api/FastCode1.0/src/main/java/org/lycoding/fastcode/bean/TableInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastCode-Api/FastCode1.0/src/main/java/org/lycoding/fastcode/utils/StringUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastCode-Api/FastCode1.0/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FastCode-Api/FastCode1.0/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastCode-Api/FastCode1.0/src/main/java/org/lycoding/fastcode/builder/TableBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/FastCode-Api/FastCode1.0/src/main/java/org/lycoding/fastcode/builder/TableBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastCode-Api/FastCode1.0/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/FastCode-Api/FastCode1.0/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.5.4\maven_repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../apache-maven-3.5.4" />
+        <option name="showDialogWithAdvancedSettings" value="true" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2ojCqSuSESHdLT3AaoayXNpo8Hl" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TableBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.lycoding.fastcode.builder.TableBuilder" />
+      <module name="FastCode1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lycoding.fastcode.builder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TableBuilder" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9abf93b5-132f-45ef-b387-1bb47525aed7" name="Default Changelist" comment="" />
+      <created>1731373789020</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731373789020</updated>
+      <workItem from="1731373790620" duration="5301000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
