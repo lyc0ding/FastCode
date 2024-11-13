@@ -11,4 +11,9 @@ public class StringUtil {
         }
         return null;
     }
+
+//    驼峰命名
+    public static String upcaseFirstLetter(String str){
+        return "";
+    }
 }

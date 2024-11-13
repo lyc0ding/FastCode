@@ -5,6 +5,7 @@ import lombok.extern.slf4j.Slf4j;
 import org.lycoding.fastcode.bean.Constants;
 import org.lycoding.fastcode.bean.TableInfo;
 import org.lycoding.fastcode.utils.PropertiesUtils;
+import org.lycoding.fastcode.utils.StringUtil;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -85,6 +86,12 @@ public class TableBuilder {
     }
 
     public String processField(String field,Boolean upCaseFiledName){
-        return null;
+        StringBuffer buffer=new StringBuffer();
+        String[] fields=field.split("_");
+        buffer.append(upCaseFiledName? StringUtil.upcaseFirstLetter(fields[0]):fields[0]);
+        for (int i = 0; i < fields.length; i++) {
+            buffer.append(StringUtil.upcaseFirstLetter(fields[i]));
+        }
+        return buffer.toString();
     }
 }
